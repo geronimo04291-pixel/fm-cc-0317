@@ -17,6 +17,26 @@
     </itunes:owner>
 
     <item>
+      <title>EP02 王小波《爱你就像爱生命》</title>
+      <description>王小波《爱你就像爱生命》——爱可以把一切都容下。</description>
+      <itunes:author>小畅</itunes:author>
+      <enclosure url="https://geronimo04291-pixel.github.io/fm-cc-0317/ep02.m4a" length="8000000" type="audio/x-m4a"/>
+      <guid isPermaLink="false">fm-cc-0317-ep02</guid>
+      <pubDate>Sat, 25 Jul 2026 05:10:00 +0800</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+
+    <item>
+      <title>EP01 博尔赫斯《另一个，同一个》</title>
+      <description>博尔赫斯《另一个，同一个》。</description>
+      <itunes:author>小畅</itunes:author>
+      <enclosure url="https://geronimo04291-pixel.github.io/fm-cc-0317/ep01.m4a" length="8000000" type="audio/x-m4a"/>
+      <guid isPermaLink="false">fm-cc-0317-ep01</guid>
+      <pubDate>Sat, 25 Jul 2026 05:00:00 +0800</pubDate>
+      <itunes:duration>00:10:00</itunes:duration>
+    </item>
+
+    <item>
       <title>EP00 开台预告</title>
       <description>全世界收听范围最小的一档电台，开播了。晚上好，欢迎收听。</description>
       <itunes:author>小畅</itunes:author>
